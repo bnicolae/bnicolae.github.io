@@ -18,6 +18,8 @@ a { color: #2362a1; }
 
 a:hover { color: #031030; }
 
+blockquote { border-left: .25em solid darkgrey; padding: 0 1em; }
+
 .photo-block { float: right; background-color: lightgrey; text-align: center; border: 1px solid grey; overflow: hidden; border-radius: 15px; margin-left: 10px; max-width: 300px; }
 
 .contact-list { padding-left: 0; margin: auto; list-style: none; width: 80%; }
